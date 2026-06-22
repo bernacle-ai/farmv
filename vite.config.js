@@ -11,7 +11,6 @@ export default defineConfig({
     },
   },
   build: {
-    outDir: '../bernaclebackup/domains/farmv.in/public_html',
-    emptyOutDir: false,
+    outDir: 'dist',
   }
 })
