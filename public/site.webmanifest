@@ -1,0 +1,22 @@
+{
+  "name": "FarmV - Revolutionizing Agriculture",
+  "short_name": "FarmV",
+  "description": "Transform your farming with cutting-edge AI, automation, and direct market access",
+  "icons": [
+    {
+      "src": "/farmv-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/farmv-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#22c55e",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
